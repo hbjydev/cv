@@ -5,6 +5,7 @@
   tagline: "DevOps Engineer, Software Developer",
   links: (
     (icon: "globe", link: "hbjy.dev"),
+    (icon: "mark-github", link: "github.com/hbjydev"),
   ),
   doc,
 )
