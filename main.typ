@@ -10,6 +10,17 @@
   doc,
 )
 
+#divider()
+
+I love working with all things DevOps, from automation and software engineering
+to platform engineering and site reliability. I’m a huge advocate for making
+things self-service and as reproducible as possible. My goal as an engineer, and
+the reason for my interest in DevOps & platform engineering, is developer
+enablement. Being blocked because the configuration needs updating to work with
+the latest OS or web server, or because the other service we need has gone
+offline, is never fun. Good DevOps culture can help alleiviate that issue, and
+that's why I've chosen to build a career in it.
+
 == Experience
 
 #event[DevOps Engineer][ZOO Digital][March 2023 -- Present][Sheffield, UK]
